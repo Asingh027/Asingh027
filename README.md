@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His!
 - ⚡ Fun fact: ...
 -->
-### Hey there 👋
+## Hey there 👋
 
 I'm Avneet, a data scientist based in Freehold, New Jersey. I'm passionate about creating high-quality machine learning solutions that attack real-world problems. Here are some things you might want to know about me:
 
-#### Background
+### Background
 
 🎓 I graduated from Stevens Institute of Technology with a degree in Quantitative Finance.
 
@@ -27,8 +27,7 @@ I'm Avneet, a data scientist based in Freehold, New Jersey. I'm passionate about
 
 <!--📝 My most recent project: []()-->
 
-
-#### Hobbies
+### Hobbies
 
 When I'm not coding, I enjoy:
 
@@ -40,6 +39,6 @@ When I'm not coding, I enjoy:
 
 👪 Spending time with family: I cherish the moments I get to spend with my family, whether it's a movie night or a day trip to a nearby town.
 
-Contact
+### Contact
 
 📧 If you'd like to get in touch, feel free to reach out to me via LinkedIn. My resume is available on request!
