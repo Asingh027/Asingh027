@@ -19,7 +19,7 @@ I'm Avneet, a data scientist based in Freehold, New Jersey. I'm passionate about
 
 🎓 I graduated from Stevens Institute of Technology with a degree in Quantitative Finance.
 
-🎓 I am currently pursuing a degree in Data Science from New Jersey Institute of Technology.
+🎓 I am currently pursuing a Master's degree in Data Science from New Jersey Institute of Technology.
 
 💻 I have 3 years of experience in the data science industry, working on projects ranging from data clustering to natural language processing.
 
