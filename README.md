@@ -20,4 +20,4 @@ Currently an AI/ML Engineer at VES Solutions supporting USSOCOM's Joint Acquisit
 - Production infrastructure (Docker, MCP, local LLM inference)
 - Systematic backtesting and strategy validation
 
-📍 Tampa, FL · [neetium.com](https://neetium.com) · [LinkedIn](https://linkedin.com/in/avneetsinghurl)
+📍 Tampa, FL · [neetium.com](https://neetium.com) · [LinkedIn](https://linkedin.com/in/avneetsinghurl) · [Medium](https://medium.com/@neetium) · [Substack](https://neetium.substack.com)
