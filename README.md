@@ -14,6 +14,10 @@ Currently an AI/ML Engineer at VES Solutions supporting USSOCOM's Joint Acquisit
 
 **[AI Health & Weight Loss System](https://github.com/Asingh027/health-mcp)** — 4 MCP servers for Claude Desktop: macro tracking, Renpho scale integration, workout data via Hevy API, Telegram bot for daily logging. FastMCP, SQLite, Docker.
 
+**[Stock Research & Risk Scoring](https://github.com/Asingh027/research-mcp)** — Composite scoring engine (quality, value, growth, financial health, analyst sentiment) with weekly Telegram reports and HTML risk dashboards.
+
+**[Trading Portfolio MCP](https://github.com/Asingh027/trading-mcp)** — Model Context Protocol server for managing Schwab positions, portfolio summaries, and position history via Claude Desktop.
+
 ## Focus Areas
 - ML systems evaluation and adversarial robustness
 - Edge AI deployment in constrained environments
