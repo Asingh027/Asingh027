@@ -4,8 +4,6 @@
 
 Building systems that work under real-world constraints — from edge ML in defense environments to autonomous trading infrastructure and LLM safety evaluation.
 
-Currently an AI/ML Engineer at VES Solutions supporting USSOCOM's Joint Acquisition Task Force.
-
 ## Projects
 
 **[Automated Trading System](https://github.com/Asingh027/momentum-trader)** — Walk-forward validated momentum bot (Sharpe 5.85, 11/11 OOS windows). Systematically evaluated 31 strategy configurations. Python, vectorbt, Alpaca API, Docker, Ollama.
